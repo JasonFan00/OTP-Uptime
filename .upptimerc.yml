@@ -7,8 +7,6 @@ sites:
     url: http://otproject.cs.brandeis.edu/
   - name: OTP Test
     url: http://otproject.cs.brandeis.edu/test/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /OTP-Uptime
