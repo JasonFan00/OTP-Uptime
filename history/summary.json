@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/otproject.cs.brandeis.edu",
     "slug": "otp-prod",
     "status": "down",
-    "uptime": "7.78%",
-    "uptimeDay": "7.78%",
-    "uptimeWeek": "7.78%",
-    "uptimeMonth": "7.78%",
-    "uptimeYear": "7.78%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 6
+      "2022-04-26": 122,
+      "2022-04-25": 393
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/otproject.cs.brandeis.edu",
     "slug": "otp-test",
     "status": "down",
-    "uptime": "8.34%",
-    "uptimeDay": "8.34%",
-    "uptimeWeek": "8.34%",
-    "uptimeMonth": "8.34%",
-    "uptimeYear": "8.34%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-25": 6
+      "2022-04-26": 122,
+      "2022-04-25": 392
     }
   }
 ]
